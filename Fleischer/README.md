@@ -36,4 +36,4 @@ Constraints
 Lies in the selection of P.
 Garg et al show that if P = argmin(p ϵ P) l(P), where l(P) = Σ(e belongs to P) l(e), then the following lemmas hold:
 
-![Lemmas](images/lemmas-2.1-2.3.png)
+![Lemmas](/images/lemmas-2.1-2.3.png)
